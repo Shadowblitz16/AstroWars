@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AstroWars/1.0.0": {
+        "dependencies": {
+          "SDL2-CS": "1.0.0"
+        },
+        "runtime": {
+          "AstroWars.dll": {}
+        }
+      },
+      "SDL2-CS/1.0.0": {
+        "runtime": {
+          "SDL2-CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AstroWars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SDL2-CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
